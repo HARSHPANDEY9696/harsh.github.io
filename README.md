@@ -1,74 +1,48 @@
-# 👋 Hi, I'm YOUR_NAME!
+# 👋 Hi, I'm HARSH PANDEY!
 
-\<h3 align="center">💻 Software Developer | Python Programmer | Tech Enthusiast\</h3>
+<h3 align="center">Software Developer | Java | Spring Boot | Problem Solver</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer;Building+Projects+and+Learning+Every+Day;Turning+Ideas+Into+Code](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+my+GitHub!;Software+Developer;Building+Projects+and+Learning+Every+Day;Turning+Ideas+Into+Code)" alt="Typing animation" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Backend+Developer+in+Progress;Learning+Spring+Boot;Building+Impactful+Software" alt="Typing animation" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=160&section=header&text=Welcome%20To%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:36BCF7,100:6C63FF\&height=160\&section=header\&text=Welcome%20To%20My%20Profile\&fontSize=30\&fontColor=ffffff\&animation=fadeIn)" width="100%" alt="Animated header" />
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,100:00C6FF&height=160&section=header&text=HARSH%20PANDEY&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HARSHPANDEY9696">
+    <img src="https://img.shields.io/badge/GitHub-HARSHPANDEY9696-0D1117?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-pandey-24b150377">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm an aspiring Software Developer.
-- 🌱 Currently learning and improving my programming skills.
-- 💡 Interested in building useful and creative projects.
-- 🐍 Working with Python, HTML and CSS.
-- 🎯 My goal is to build real-world projects and secure an internship.
-- 🤝 Open to collaboration, learning and new opportunities.
+I'm HARSH PANDEY, a second-year B.Tech student at Army Institute of Technology, pursuing Electronics and Telecommunication Engineering.
 
-## 🛠️ Tech Stack
+I'm passionate about backend engineering and creating impactful software.
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,python&theme=dark](https://skillicons.dev/icons?i=html,css,python\&theme=dark)" alt="HTML CSS Python" />
-\</p>
+- 💻 Interested in Software Development and Backend Engineering.
+- ☕ Working with Java and learning Spring Boot.
+- 🗄️ Familiar with SQL and MySQL.
+- 🌐 Exploring web technologies like HTML and CSS.
+- 🧠 Interested in problem-solving and software engineering.
+- 🚀 Focused on building real-world, production-ready applications.
+- 🎯 Currently looking for opportunities to grow through software development internships.
+- 🤝 Interested in open-source contributions and collaboration.
 
-## 📊 GitHub Statistics
+## 🎓 Education
 
-\<p align="center">
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" alt="GitHub statistics" />
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most used languages" />
-\</p>
+**Army Institute of Technology**
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)" width="70%" alt="GitHub contribution streak" />
-\</p>
+- Degree: Bachelor of Technology (B.Tech)
+- Branch: Electronics and Telecommunication Engineering
+- Current Year: Second Year
 
-## 📌 Featured Projects
+## 🛠️ Technical Skills
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/YOUR_USERNAME?tab=repositories](https://github.com/YOUR_USERNAME?tab=repositories)">
-&#x20;   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_REPO&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME\&repo=YOUR_PROJECT_REPO\&theme=tokyonight\&hide_border=true)" alt="Featured project" />
-&#x20; \</a>
-\</p>
-
-🔭 I'm continuously working on new projects. Check out my repositories to see what I'm building!
-
-## 🎯 Current Goals
-
-- [ ] Build my first 5 real-world projects.
-- [ ] Improve my Python programming skills.
-- [ ] Learn JavaScript and Git.
-- [ ] Contribute to open-source projects.
-- [ ] Secure a Software Developer internship.
-
-## 🤝 Connect With Me
-
-\<p align="center">
-&#x20; \<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:YOUR_EMAIL">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
-&#x20; \</a>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:36BCF7,100:6C63FF\&height=100\&section=footer)" width="100%" alt="Footer banner" />
-\</p>
-
-\<p align="center">
-&#x20; ⭐ \<b>Thanks for visiting my profile!\</b> Keep learning, keep building, and keep growing.
-\</p>
+<p align="center">
+  <img src="https://skil
